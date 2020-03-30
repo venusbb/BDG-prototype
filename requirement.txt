@@ -4,13 +4,3 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 MarkupSafe==1.1.1
 Werkzeug==1.0.0
-git+https://github.com/alphagov/govuk-frontend-jinja.git
-click==7.1.1
-Flask==1.1.1
-govuk-frontend-jinja==0.5.1a0
-itsdangerous==1.1.0
-Jinja2==2.11.1
-libsass==0.19.4
-MarkupSafe==1.1.1
-six==1.14.0
-Werkzeug==1.0.0
